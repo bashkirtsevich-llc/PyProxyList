@@ -32,7 +32,7 @@ print proxy_lit.get_proxies()
 from proxy_request import ProxyRequest
 
 proxy = ProxyRequest()
-print http_get('http://www.myipaddress.com/show-my-ip-address/')['data']
+print proxy.http_get('http://www.myipaddress.com/show-my-ip-address/')['data']
 
 ```
 
