@@ -4,7 +4,7 @@
 
 ## Usage
 
-  1. [Download](https://github.com/bashkirtsevich/PyProxyList/archive/master.zip) or clone this repository via SSH (`git clone git@github.com:bashkirtsevich/PyProxyList.git`) or HTTSP (`git clone https://github.com/bashkirtsevich/PyProxyList.git`);
+  1. [Download](https://github.com/bashkirtsevich/PyProxyList/archive/master.zip) or clone this repository via SSH (`git clone git@github.com:bashkirtsevich/PyProxyList.git`) or HTTPS (`git clone https://github.com/bashkirtsevich/PyProxyList.git`);
   2. Import `proxy_list.py` or `proxy_request.py` into your python project;
   3. Enjoy.
 
